@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#222a35" />
+      <stop offset="1" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="500" fill="url(#g)" rx="24" ry="24"/>
+  <g font-family="Verdana,Segoe UI,Arial" fill="#ffffff" text-anchor="middle">
+    <text x="400.0" y="250.0" font-size="48" font-weight="700">The Crew</text>
+  </g>
+</svg>
