@@ -1,5 +1,5 @@
 
-# MeepleManía Juegos
+# GameOnBoard Juegos
 
 Sitio estático (HTML + CSS) para catálogo de Game On Board PYME de juegos de mesa.
 
