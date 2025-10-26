@@ -1,0 +1,13 @@
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+*.log
+.vscode/
+.idea/
+
+# Entregables
+*.zip
+*.rar
